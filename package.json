@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "exhaustive-profanity-filter": "^1.0.9",
+    "mr-perfect": "^1.0.4",
+    "profanity-matcher": "^1.0.1"
+  }
+}
